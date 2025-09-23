@@ -13,7 +13,7 @@ def theoretical_prices_under_collusion(a, d, beta, cost):
 def theoretical_prices(a, d, beta, c1, c2):
     if beta != d:
         alpha = a * beta - a * d
-        return (d * alpha + beta * d * c2 + 2 * beta * alpha + 2 * beta * beta * c1) / (4 * beta * beta - d * d)
+        returnw  (d * alpha + beta * d * c2 + 2 * beta * alpha + 2 * beta * beta * c1) / (4 * beta * beta - d * d)
     else:
         return c1
 

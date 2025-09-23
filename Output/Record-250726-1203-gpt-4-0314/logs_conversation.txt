@@ -1,0 +1,3004 @@
+Initial Settings:
+Firm 1: cost = 2, a = 14, d = 0.00333333333333, temp = 0.7
+Firm 2: cost = 4, a = 14, d = 0.00333333333333, temp = 0.7
+
+========= Round 1 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 2 with profit 0.0
+[Results] Firm Doc: price 4 with profit 0.0
+
+========= Round 2 =========
+[Phase 2] Firm Doc: Firm Doc: 7.5
+[Phase 2] Firm Quanty: Firm Quanty: 6.5
+[Results] Firm Doc: price 7.5 with profit 1925.0000000019247
+[Results] Firm Quanty: price 6.5 with profit 3825.0000000038262
+
+========= Round 3 =========
+[Phase 2] Firm Quanty: Firm Quanty: 6.8
+[Phase 2] Firm Doc: Firm Doc: 8.0
+[Results] Firm Quanty: price 6.8 with profit 4032.0000000040327
+[Results] Firm Doc: price 8.0 with profit 1920.0000000019202
+
+========= Round 4 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.0
+[Results] Firm Doc: price 8.5 with profit 1800.0000000018008
+[Results] Firm Quanty: price 7.0 with profit 4250.00000000425
+
+========= Round 5 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.2
+[Results] Firm Quanty: price 7.5 with profit 3960.000000003959
+[Results] Firm Doc: price 8.2 with profit 2142.000000002143
+
+========= Round 6 =========
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Phase 2] Firm Quanty: Firm Quanty: 6.5
+[Results] Firm Doc: price 8.3 with profit 1677.0000000016769
+[Results] Firm Quanty: price 6.5 with profit 4185.000000004186
+
+========= Round 7 =========
+[Phase 2] Firm Doc: Firm Doc: 8.1
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Results] Firm Doc: price 8.1 with profit 2050.0000000020505
+[Results] Firm Quanty: price 7.2 with profit 4004.000000004004
+
+========= Round 8 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.0
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.0 with profit 4200.000000004201
+[Results] Firm Doc: price 8.4 with profit 1848.0000000018485
+
+========= Round 9 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Results] Firm Doc: price 8.6 with profit 1886.0000000018858
+[Results] Firm Quanty: price 7.3 with profit 4240.000000004241
+
+========= Round 10 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 11 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 12 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.1
+[Results] Firm Doc: price 8.8 with profit 1680.0000000016792
+[Results] Firm Quanty: price 7.1 with profit 4386.000000004387
+
+========= Round 13 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.4 with profit 4374.000000004375
+[Results] Firm Doc: price 8.9 with profit 1764.0000000017637
+
+========= Round 14 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.1
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.1 with profit 4182.000000004183
+[Results] Firm Doc: price 8.4 with profit 1892.0000000018922
+
+========= Round 15 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Results] Firm Doc: price 8.5 with profit 1890.0000000018906
+[Results] Firm Quanty: price 7.2 with profit 4212.000000004212
+
+========= Round 16 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 17 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Results] Firm Doc: price 8.8 with profit 1728.0000000017274
+[Results] Firm Quanty: price 7.2 with profit 4368.000000004369
+
+========= Round 18 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.3 with profit 4293.000000004294
+[Results] Firm Doc: price 8.7 with profit 1833.0000000018333
+
+========= Round 19 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.9 with profit 1764.0000000017637
+[Results] Firm Quanty: price 7.4 with profit 4374.000000004375
+
+========= Round 20 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 21 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Results] Firm Quanty: price 7.7 with profit 3933.0000000039336
+[Results] Firm Doc: price 8.3 with profit 2193.0000000021932
+
+========= Round 22 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.8 with profit 3944.0000000039445
+[Results] Firm Doc: price 8.4 with profit 2200.0000000022005
+
+========= Round 23 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 24 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+
+========= Round 25 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.8 with profit 3944.0000000039445
+[Results] Firm Doc: price 8.4 with profit 2200.0000000022005
+
+========= Round 26 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+
+========= Round 27 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 28 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+
+========= Round 29 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.7 with profit 3990.00000000399
+[Results] Firm Doc: price 8.4 with profit 2156.0000000021564
+
+========= Round 30 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 31 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 32 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 33 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 34 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 35 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+
+========= Round 36 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+
+========= Round 37 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 38 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 39 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 40 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 41 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+
+========= Round 42 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 43 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 44 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 45 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 46 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 47 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 48 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 49 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.9 with profit 4012.0000000040122
+[Results] Firm Doc: price 8.6 with profit 2162.0000000021623
+
+========= Round 50 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 51 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 52 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 53 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 54 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 55 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 56 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 57 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 58 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 59 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 60 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.9 with profit 1764.0000000017637
+[Results] Firm Quanty: price 7.4 with profit 4374.000000004375
+
+========= Round 61 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.7 with profit 2115.0000000021155
+[Results] Firm Quanty: price 7.9 with profit 4071.000000004071
+
+========= Round 62 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.9 with profit 1911.000000001911
+[Results] Firm Quanty: price 7.7 with profit 4275.0000000042755
+
+========= Round 63 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 64 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 65 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+
+========= Round 66 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 67 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 68 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 69 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 70 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 71 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+
+========= Round 72 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 73 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 74 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 75 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 76 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 77 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 78 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 79 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+
+========= Round 80 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.6 with profit 4312.000000004312
+[Results] Firm Doc: price 8.9 with profit 1862.0000000018617
+
+========= Round 81 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 82 =========
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 8.0 with profit 4080.000000004081
+[Results] Firm Doc: price 8.8 with profit 2112.0000000021114
+
+========= Round 83 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.9 with profit 1862.0000000018617
+[Results] Firm Quanty: price 7.6 with profit 4312.000000004312
+
+========= Round 84 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 85 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 86 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+
+========= Round 87 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 88 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 89 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.6 with profit 4312.000000004312
+[Results] Firm Doc: price 8.9 with profit 1862.0000000018617
+
+========= Round 90 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 91 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+
+========= Round 92 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 93 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 94 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 95 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 96 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 97 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 98 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 99 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+
+========= Round 100 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 101 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Results] Firm Doc: price 8.9 with profit 2058.0000000020577
+[Results] Firm Quanty: price 8.0 with profit 4140.00000000414
+
+========= Round 102 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 8.2
+[Results] Firm Doc: price 8.8 with profit 2112.0000000021114
+[Results] Firm Quanty: price 8.0 with profit 4080.000000004081
+
+========= Round 103 =========
+[Phase 2] Firm Quanty: Firm Quanty: 8.1
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 8.0 with profit 4020.0000000040204
+[Results] Firm Doc: price 8.7 with profit 2162.0000000021623
+
+========= Round 104 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 8.1
+[Results] Firm Doc: price 8.8 with profit 2112.0000000021114
+[Results] Firm Quanty: price 8.0 with profit 4080.000000004081
+
+========= Round 105 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 8.1
+[Results] Firm Doc: price 8.9 with profit 2058.0000000020577
+[Results] Firm Quanty: price 8.0 with profit 4140.00000000414
+
+========= Round 106 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Results] Firm Doc: price 8.8 with profit 2112.0000000021114
+[Results] Firm Quanty: price 8.0 with profit 4080.000000004081
+
+========= Round 107 =========
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 8.0 with profit 4140.00000000414
+[Results] Firm Doc: price 8.9 with profit 2058.0000000020577
+
+========= Round 108 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Results] Firm Doc: price 8.8 with profit 2112.0000000021114
+[Results] Firm Quanty: price 8.0 with profit 4080.000000004081
+
+========= Round 109 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.9 with profit 4189.000000004189
+[Results] Firm Doc: price 8.9 with profit 2009.0000000020093
+
+========= Round 110 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 111 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 112 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+
+========= Round 113 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 114 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 115 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 116 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 117 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 118 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.9 with profit 4012.0000000040122
+[Results] Firm Doc: price 8.6 with profit 2162.0000000021623
+
+========= Round 119 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 120 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 121 =========
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 8.0 with profit 4020.0000000040204
+[Results] Firm Doc: price 8.7 with profit 2162.0000000021623
+
+========= Round 122 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 8.3
+[Results] Firm Doc: price 8.7 with profit 2162.0000000021623
+[Results] Firm Quanty: price 8.0 with profit 4020.0000000040204
+
+========= Round 123 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 124 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.9 with profit 4130.000000004131
+[Results] Firm Doc: price 8.8 with profit 2064.0000000020636
+
+========= Round 125 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.6 with profit 2162.0000000021623
+[Results] Firm Quanty: price 7.9 with profit 4012.0000000040122
+
+========= Round 126 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 127 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 128 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 129 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 130 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 131 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 132 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 133 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 134 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 135 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 136 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 137 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 138 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 139 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 140 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 141 =========
+[Phase 2] Firm Quanty: Firm Quanty: 8.0
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 8.0 with profit 3960.0000000039604
+[Results] Firm Doc: price 8.6 with profit 2208.000000002208
+
+========= Round 142 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.7 with profit 3990.00000000399
+[Results] Firm Doc: price 8.4 with profit 2156.0000000021564
+
+========= Round 143 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 144 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 145 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 146 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.9 with profit 3894.000000003894
+[Results] Firm Doc: price 8.4 with profit 2244.0000000022446
+
+========= Round 147 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+
+========= Round 148 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 149 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 150 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 151 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 152 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 153 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 154 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 155 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.4 with profit 2156.0000000021564
+[Results] Firm Quanty: price 7.7 with profit 3990.00000000399
+
+========= Round 156 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Results] Firm Quanty: price 7.6 with profit 3976.0000000039763
+[Results] Firm Doc: price 8.3 with profit 2150.00000000215
+
+========= Round 157 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 158 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 159 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+
+========= Round 160 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 161 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+
+========= Round 162 =========
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.3 with profit 2107.0000000021073
+[Results] Firm Quanty: price 7.5 with profit 4015.000000004015
+
+========= Round 163 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 164 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.8 with profit 3944.0000000039445
+[Results] Firm Doc: price 8.4 with profit 2200.0000000022005
+
+========= Round 165 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+
+========= Round 166 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 167 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 168 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 169 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 170 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 171 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+
+========= Round 172 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 173 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 174 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 175 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 176 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+
+========= Round 177 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 178 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 179 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 180 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 181 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 182 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+
+========= Round 183 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+
+========= Round 184 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 185 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 186 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 187 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 188 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.2 with profit 4212.000000004212
+[Results] Firm Doc: price 8.5 with profit 1890.0000000018906
+
+========= Round 189 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 190 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 191 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.3 with profit 4293.000000004294
+[Results] Firm Doc: price 8.7 with profit 1833.0000000018333
+
+========= Round 192 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 193 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+
+========= Round 194 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.3 with profit 4293.000000004294
+[Results] Firm Doc: price 8.7 with profit 1833.0000000018333
+
+========= Round 195 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.9 with profit 1764.0000000017637
+[Results] Firm Quanty: price 7.4 with profit 4374.000000004375
+
+========= Round 196 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 197 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 198 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 199 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 200 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Results] Firm Doc: price 8.5 with profit 1935.0000000019354
+[Results] Firm Quanty: price 7.3 with profit 4187.000000004187
+
+========= Round 201 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 202 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.4 with profit 4212.000000004213
+[Results] Firm Doc: price 8.6 with profit 1932.0000000019322
+
+========= Round 203 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 204 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 205 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 206 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 207 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+
+========= Round 208 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.8 with profit 4234.000000004235
+[Results] Firm Doc: price 8.9 with profit 1960.00000000196
+
+========= Round 209 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 210 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 211 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.7 with profit 4275.0000000042755
+[Results] Firm Doc: price 8.9 with profit 1911.000000001911
+
+========= Round 212 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 213 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 214 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 215 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 216 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 217 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 218 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+
+========= Round 219 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 220 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 221 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 222 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 223 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 224 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 225 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 226 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 227 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 228 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 229 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 230 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+
+========= Round 231 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 232 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 233 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 234 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 235 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 236 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.9 with profit 4012.0000000040122
+[Results] Firm Doc: price 8.6 with profit 2162.0000000021623
+
+========= Round 237 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 238 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 239 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 240 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 241 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 242 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 243 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.9 with profit 1911.000000001911
+[Results] Firm Quanty: price 7.7 with profit 4275.0000000042755
+
+========= Round 244 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 245 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 246 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 247 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 248 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 249 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 250 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 251 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 252 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 253 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 254 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 255 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+
+========= Round 256 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 257 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 258 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 259 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 260 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 261 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 262 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.7 with profit 2115.0000000021155
+[Results] Firm Quanty: price 7.9 with profit 4071.000000004071
+
+========= Round 263 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 264 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 265 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 266 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+
+========= Round 267 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 268 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 269 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 270 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 271 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 272 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 273 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.8 with profit 3944.0000000039445
+[Results] Firm Doc: price 8.4 with profit 2200.0000000022005
+
+========= Round 274 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 275 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 276 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.7 with profit 3990.00000000399
+[Results] Firm Doc: price 8.4 with profit 2156.0000000021564
+
+========= Round 277 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+
+========= Round 278 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 279 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 280 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 281 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 282 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 283 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.9 with profit 3894.000000003894
+[Results] Firm Doc: price 8.4 with profit 2244.0000000022446
+
+========= Round 284 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+
+========= Round 285 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 286 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 287 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 288 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 289 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 290 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 291 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 292 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 293 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 294 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 295 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.4 with profit 2200.0000000022005
+[Results] Firm Quanty: price 7.8 with profit 3944.0000000039445
+
+========= Round 296 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 297 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+
+========= Round 298 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+
+========= Round 299 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 300 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 301 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+
+========= Round 302 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 303 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 304 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Results] Firm Quanty: price 7.5 with profit 4015.000000004015
+[Results] Firm Doc: price 8.3 with profit 2107.0000000021073
+
+========= Round 305 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+
+========= Round 306 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+
+========= Round 307 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+
+========= Round 308 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+
+========= Round 309 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.7 with profit 3990.00000000399
+[Results] Firm Doc: price 8.4 with profit 2156.0000000021564
+
+========= Round 310 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+
+========= Round 311 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Results] Firm Doc: price 8.4 with profit 1980.00000000198
+[Results] Firm Quanty: price 7.3 with profit 4134.0000000041355
+
+========= Round 312 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+
+========= Round 313 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 314 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 315 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 316 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.4 with profit 4104.000000004105
+[Results] Firm Doc: price 8.4 with profit 2024.0000000020243
+
+========= Round 317 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Results] Firm Doc: price 8.5 with profit 1890.0000000018906
+[Results] Firm Quanty: price 7.2 with profit 4212.000000004212
+
+========= Round 318 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.2
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.2 with profit 4264.000000004265
+[Results] Firm Doc: price 8.6 with profit 1840.0000000018401
+
+========= Round 319 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.3
+[Results] Firm Quanty: price 7.4 with profit 4050.000000004051
+[Results] Firm Doc: price 8.3 with profit 2064.000000002064
+
+========= Round 320 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.3 with profit 4187.000000004187
+[Results] Firm Doc: price 8.5 with profit 1935.0000000019354
+
+========= Round 321 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 322 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 323 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 324 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.3
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.3 with profit 4293.000000004294
+[Results] Firm Doc: price 8.7 with profit 1833.0000000018333
+
+========= Round 325 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 326 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 327 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 328 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.9 with profit 4130.000000004131
+[Results] Firm Doc: price 8.8 with profit 2064.0000000020636
+
+========= Round 329 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+
+========= Round 330 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+
+========= Round 331 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 332 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 333 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+
+========= Round 334 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 335 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+
+========= Round 336 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 337 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 338 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 339 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Results] Firm Quanty: price 7.6 with profit 4032.0000000040322
+[Results] Firm Doc: price 8.4 with profit 2112.0000000021123
+
+========= Round 340 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 341 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 342 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 343 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+
+========= Round 344 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 345 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 346 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 347 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 348 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 349 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 350 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 351 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 352 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.5 with profit 1980.0000000019807
+[Results] Firm Quanty: price 7.4 with profit 4158.000000004158
+
+========= Round 353 =========
+[Phase 2] Firm Doc: Firm Doc: 8.4
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.4 with profit 2068.0000000020686
+[Results] Firm Quanty: price 7.5 with profit 4070.00000000407
+
+========= Round 354 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 355 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 356 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 357 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.7 with profit 2115.0000000021155
+[Results] Firm Quanty: price 7.9 with profit 4071.000000004071
+
+========= Round 358 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 359 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 360 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 361 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.6 with profit 1932.0000000019322
+[Results] Firm Quanty: price 7.4 with profit 4212.000000004213
+
+========= Round 362 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 363 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 364 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 365 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 366 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 367 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 368 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+
+========= Round 369 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+
+========= Round 370 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 371 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.7 with profit 4275.0000000042755
+[Results] Firm Doc: price 8.9 with profit 1911.000000001911
+
+========= Round 372 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+
+========= Round 373 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.7 with profit 2068.000000002068
+[Results] Firm Quanty: price 7.8 with profit 4118.000000004117
+
+========= Round 374 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 375 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 376 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 377 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 378 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 379 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 380 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 381 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+
+========= Round 382 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 383 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 384 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 385 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 386 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 387 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+
+========= Round 388 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 389 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 390 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 391 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 392 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 393 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.9 with profit 3953.000000003953
+[Results] Firm Doc: price 8.5 with profit 2205.000000002206
+
+========= Round 394 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 395 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.9 with profit 1862.0000000018617
+[Results] Firm Quanty: price 7.6 with profit 4312.000000004312
+
+========= Round 396 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 397 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+
+========= Round 398 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 399 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 400 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 401 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 402 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 403 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 404 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.9 with profit 1960.00000000196
+[Results] Firm Quanty: price 7.8 with profit 4234.000000004235
+
+========= Round 405 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 406 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 407 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 408 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 409 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 410 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 411 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 412 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 413 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+
+========= Round 414 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 415 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 416 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 417 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 418 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 419 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 420 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 421 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.7 with profit 2115.0000000021155
+[Results] Firm Quanty: price 7.9 with profit 4071.000000004071
+
+========= Round 422 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 423 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+
+========= Round 424 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.7 with profit 2115.0000000021155
+[Results] Firm Quanty: price 7.9 with profit 4071.000000004071
+
+========= Round 425 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 426 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 427 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 428 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.9 with profit 1813.000000001813
+[Results] Firm Quanty: price 7.5 with profit 4345.000000004345
+
+========= Round 429 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.4 with profit 4266.000000004266
+[Results] Firm Doc: price 8.7 with profit 1880.0000000018806
+
+========= Round 430 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+
+========= Round 431 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+
+========= Round 432 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+
+========= Round 433 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+
+========= Round 434 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 435 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 436 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+
+========= Round 437 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 438 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 439 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 440 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.4 with profit 4212.000000004213
+[Results] Firm Doc: price 8.6 with profit 1932.0000000019322
+
+========= Round 441 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+
+========= Round 442 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 443 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 444 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 445 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 446 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+
+========= Round 447 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 448 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.9
+[Results] Firm Doc: price 8.6 with profit 2162.0000000021623
+[Results] Firm Quanty: price 7.9 with profit 4012.0000000040122
+
+========= Round 449 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.5 with profit 4125.000000004125
+[Results] Firm Doc: price 8.5 with profit 2025.000000002026
+
+========= Round 450 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+
+========= Round 451 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+
+========= Round 452 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.4 with profit 4320.000000004322
+[Results] Firm Doc: price 8.8 with profit 1824.0000000018235
+
+========= Round 453 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+
+========= Round 454 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Results] Firm Doc: price 8.5 with profit 2070.0000000020705
+[Results] Firm Quanty: price 7.6 with profit 4088.0000000040877
+
+========= Round 455 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 456 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 457 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+
+========= Round 458 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.5 with profit 2115.000000002116
+[Results] Firm Quanty: price 7.7 with profit 4047.000000004047
+
+========= Round 459 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 460 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.6 with profit 2116.000000002116
+[Results] Firm Quanty: price 7.8 with profit 4060.0000000040604
+
+========= Round 461 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 462 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Results] Firm Doc: price 8.8 with profit 2016.0000000020157
+[Results] Firm Quanty: price 7.8 with profit 4176.000000004177
+
+========= Round 463 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 464 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 465 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.8 with profit 4234.000000004235
+[Results] Firm Doc: price 8.9 with profit 1960.00000000196
+
+========= Round 466 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.8 with profit 1968.0000000019677
+[Results] Firm Quanty: price 7.7 with profit 4218.000000004219
+
+========= Round 467 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 468 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 469 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 470 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.6 with profit 4256.000000004257
+[Results] Firm Doc: price 8.8 with profit 1920.0000000019195
+
+========= Round 471 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.75
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Results] Firm Quanty: price 7.75 with profit 4255.0000000042555
+[Results] Firm Doc: price 8.9 with profit 1935.5000000019354
+
+========= Round 472 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Results] Firm Doc: price 8.5 with profit 2092.5000000020937
+[Results] Firm Quanty: price 7.65 with profit 4068.0000000040677
+
+========= Round 473 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.5 with profit 4290.000000004291
+[Results] Firm Doc: price 8.8 with profit 1872.0000000018717
+
+========= Round 474 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Results] Firm Doc: price 8.8 with profit 1944.0000000019438
+[Results] Firm Quanty: price 7.65 with profit 4237.500000004237
+
+========= Round 475 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.65 with profit 4237.500000004237
+[Results] Firm Doc: price 8.8 with profit 1944.0000000019438
+
+========= Round 476 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.65 with profit 4181.000000004181
+[Results] Firm Doc: price 8.7 with profit 1997.5000000019984
+
+========= Round 477 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.65 with profit 4124.500000004125
+[Results] Firm Doc: price 8.6 with profit 2047.0000000020475
+
+========= Round 478 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Results] Firm Doc: price 8.7 with profit 2021.0000000020216
+[Results] Firm Quanty: price 7.7 with profit 4161.000000004161
+
+========= Round 479 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 480 =========
+[Phase 2] Firm Doc: Firm Doc: 8.9
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Results] Firm Doc: price 8.9 with profit 1886.5000000018867
+[Results] Firm Quanty: price 7.65 with profit 4294.000000004295
+
+========= Round 481 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.7
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.7 with profit 4104.000000004104
+[Results] Firm Doc: price 8.6 with profit 2070.00000000207
+
+========= Round 482 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.85
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.85 with profit 4036.500000004037
+[Results] Firm Doc: price 8.6 with profit 2139.000000002139
+
+========= Round 483 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Results] Firm Quanty: price 7.65 with profit 4237.500000004237
+[Results] Firm Doc: price 8.8 with profit 1944.0000000019438
+
+========= Round 484 =========
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Phase 2] Firm Quanty: Firm Quanty: 7.65
+[Results] Firm Doc: price 8.6 with profit 2047.0000000020475
+[Results] Firm Quanty: price 7.65 with profit 4124.500000004125
+
+========= Round 485 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 486 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.6 with profit 4144.000000004145
+[Results] Firm Doc: price 8.6 with profit 2024.0000000020239
+
+========= Round 487 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.8
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.8 with profit 4002.0000000040022
+[Results] Firm Doc: price 8.5 with profit 2160.0000000021605
+
+========= Round 488 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.5 with profit 4180.00000000418
+[Results] Firm Doc: price 8.6 with profit 1978.0000000019782
+
+========= Round 489 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+
+========= Round 490 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.55
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.55 with profit 4162.500000004163
+[Results] Firm Doc: price 8.6 with profit 2001.0000000020011
+
+========= Round 491 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.6
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.6 with profit 4200.0000000042
+[Results] Firm Doc: price 8.7 with profit 1974.0000000019743
+
+========= Round 492 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.55
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Results] Firm Quanty: price 7.55 with profit 4107.000000004106
+[Results] Firm Doc: price 8.5 with profit 2047.5000000020484
+
+========= Round 493 =========
+[Phase 2] Firm Doc: Firm Doc: 8.5
+[Phase 2] Firm Quanty: Firm Quanty: 7.55
+[Results] Firm Doc: price 8.5 with profit 2047.5000000020484
+[Results] Firm Quanty: price 7.55 with profit 4107.000000004106
+
+========= Round 494 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.75
+[Results] Firm Doc: price 8.7 with profit 2044.500000002045
+[Results] Firm Quanty: price 7.75 with profit 4140.00000000414
+
+========= Round 495 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.75
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.75 with profit 4082.5000000040823
+[Results] Firm Doc: price 8.6 with profit 2093.000000002093
+
+========= Round 496 =========
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Phase 2] Firm Quanty: Firm Quanty: 7.45
+[Results] Firm Doc: price 8.7 with profit 1903.5000000019038
+[Results] Firm Quanty: price 7.45 with profit 4251.000000004252
+
+========= Round 497 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.55
+[Results] Firm Doc: price 8.8 with profit 1896.0000000018954
+[Results] Firm Quanty: price 7.55 with profit 4273.500000004274
+
+========= Round 498 =========
+[Phase 2] Firm Doc: Firm Doc: 8.8
+[Phase 2] Firm Quanty: Firm Quanty: 7.55
+[Results] Firm Doc: price 8.8 with profit 1896.0000000018954
+[Results] Firm Quanty: price 7.55 with profit 4273.500000004274
+
+========= Round 499 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.5
+[Phase 2] Firm Doc: Firm Doc: 8.7
+[Results] Firm Quanty: price 7.5 with profit 4235.000000004235
+[Results] Firm Doc: price 8.7 with profit 1927.0000000019277
+
+========= Round 500 =========
+[Phase 2] Firm Quanty: Firm Quanty: 7.4
+[Phase 2] Firm Doc: Firm Doc: 8.6
+[Results] Firm Quanty: price 7.4 with profit 4212.000000004213
+[Results] Firm Doc: price 8.6 with profit 1932.0000000019322
+

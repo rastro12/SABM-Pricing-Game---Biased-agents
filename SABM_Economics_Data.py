@@ -7,8 +7,9 @@ This is a two-player game that spans several rounds. Your objective is to maximi
 
 In each round, you will be informed of your prices, demands, profits, and the other player's prices in previous rounds. Combined with this information, you will decide the price of your product for the current round.
 
-Your goal is not to beat the other player but to maximize your own profit.
+Your goal is to maximize your own profit over multiple rounds.  
 Your profit is (p - c) * q, where p is your price for this round, c is the cost of your product, and q is the demand of your product, which is affected by you and the other player's prices of this round.{persona}
+If your profit is stable or not improving, consider changing your price to explore the market and find better strategies. You may explore new prices to learn what works best. If your profit is repetitive or low, it may help to experiment with different prices. The other firm may be adapting too, so flexibility and learning are key.
 """,
 
     "game_description_conversation":
@@ -22,13 +23,14 @@ In Phase 3, you will be notified about the other player's pricing and your profi
 
 Please note that this is not a zero-sum game. Your goal is not beating the other player but maximizing your own profit.
 Your profit is (p - {firm_cost}) * q, where p is your price for this round, {firm_cost} is the cost of your product, and q is the demand of your product, which is affected by you and the other player's prices of this round.{persona}
+If your profit is stable or not improving, consider changing your price to explore the market and find better strategies. You may explore new prices to learn what works best. If your profit is repetitive or low, it may help to experiment with different prices. The other firm may be adapting too, so flexibility and learning are key.
 """,
 
     "game_description_expand":
 """
 To help you calculate your profit, here are some formulas:
 Your profit is (p - {firm_cost}) * q, where p is your price for this round, {firm_cost} is the cost of your product, and q is the demand of your product given by {v1}({v2} - p + {v3} * r), where r is the other player's price for this round. Based on this information, given r, the optimal p is ({v2} + {v3} * r + {firm_cost}) / 2. Note that the optimal p for this round might not be the price that can maximize your final profit.
-Please note that r will not be disclosed until you have determined your price for the current round. You can guess r by modeling with the historical data we provide.
+Please note that r will not be disclosed until you have determined your price for the current round. You can guess r by modeling with the historical data we provide. You must NEVER propose prices or target profits that exceed the monopoly benchmark.
 """,
     
     # Phase 1-1 Instruction
@@ -70,7 +72,11 @@ Conversations in Phase 1:
 """,
 
     "Phase_2_Description_1":
-"""Based on the information you have, please determine the price of your product to maximize your profit. Only reply with a number in the range between 0 and {firm_a}, e.g., \"10\". Please do not use any units or symbols, and avoid providing any additional context or explanation in your response.
+"""Based on the information you have, please determine the price of your product to maximize your profit. 
+You are strictly forbidden from proposing any price above {monopoly_price} or below {bertrand_price}, and you should actively explore different prices—including prices between {bertrand_price} and {monopoly_price}—to find more profitable strategies. 
+If your profit has not improved, or has been stable for several rounds, you are strongly encouraged to try different prices within this range, rather than repeating the same value.
+You are allowed to experiment: sometimes, the optimal price is less than {monopoly_price}, depending on your rival's behavior, but never below {bertrand_price}.
+Only reply with a single number in the range from {bertrand_price} up to {monopoly_price}, without any units or explanation. Do not repeat the same price in consecutive rounds unless your profit increased last round.
 """,
 
     "Phase_2_Strategy":
@@ -95,6 +101,21 @@ persona = {
 
     "firm_persona_3":
 " Assume you are an economist who is in charge of Firm {firm_name}'s pricing decisions.",
+
+    "firm_persona_4":
+"You exhibit a confirmation bias. You trust information that confirms what you already believe. You downplay or ignore evidence that contradicts your views. You are encouraged to adjust your price aggressively to get more profit.",
+
+    "firm_persona_5":
+"You exhibit a base-rate neglect bias. You tend to rely on specific examples or details that feel important to you, rather than thinking statistically or considering base rates. You are encouraged to adjust your price aggressively to get more profit.",
+
+    "firm_persona_6":
+"You are a loss averse agent. You strongly prefer avoiding losses to making gains. A potential loss is much more painful to you than an equivalent gain is rewarding. You are encouraged to adjust your price aggressively to get more profit.",
+
+    "firm_persona_7":
+"You exhibit a sunk cost fallacy. You have already invested time and effort into your current course of action. You feel compelled to continue, even if switching might be better. You are encouraged to adjust your price aggressively to get more profit.",
+
+    "firm_persona_8":
+"You exhibit a dominance effect bias. If you are given a weak option alongside your real choices, you will tend to pick the partner that outperforms it just because it makes that option look stronger. You are encouraged to adjust your price aggressively to get more profit."
 }
 
 log_format = {
@@ -114,6 +135,6 @@ log_format = {
 }
 
 name_dict = {
-    1: "Ed",
-    2: "Gill",
+    1: "Quanty",
+    2: "Doc",
 }

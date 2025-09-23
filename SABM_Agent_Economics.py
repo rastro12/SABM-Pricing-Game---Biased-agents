@@ -47,8 +47,8 @@ class Firm(Agent):
         self.max_price = 0
         self.max_rival_price = 0
     
-    def demand_function(self, rival_price):
-        demands = demand_function(self.a, self.d, self.beta, self.price, rival_price)
+    def demand_function(self, my_price, rival_price):
+        demands = demand_function(self.a, self.d, self.beta, my_price, rival_price)
         self.demand = demands
         return self.demand
 
@@ -58,12 +58,31 @@ class Firm(Agent):
             price = float(re.search(r"[-+]?\d*\.\d+|\d+", response).group())
         except (ValueError, AttributeError):
             price = self.cost
-        self.price = float(max(price, self.cost))
+        
+        #cap the price at monopoly price
+        if hasattr(self, "max_allowed_price"):
+            price = min(price, self.max_allowed_price)
+        if hasattr(self, "min_allowed_price"):
+            price = max(price, self.min_allowed_price)
+        self.price = price
+                
+        #Token tracking print 
+        print(f"[Token Debug] Firm {self.id} used {self.token_usage[-1]} tokens this round.")
         return self.price, response
 
     def current_profit(self, rival_price):
-        quantity = self.demand_function(rival_price)
-        self.profit = int((self.price - self.cost) * quantity)
+        quantity = self.demand_function(self.price, rival_price)
+        self.demand = quantity 
+        self.profit = float((self.price - self.cost) * quantity)
+
+        if self.demand < 0:
+            print(f"WARNING: Negative demand! Price: {self.price}, Rival Price: {rival_price}, Demand: {self.demand}")
+
+        if hasattr (self, "max_theoretical_profit"):
+            if self.profit > self.max_theoretical_profit + 1e-6:  # 1e-6 for float tolerance
+                print("WARNING: Profit exceeds theoretical maximum!")
+                print(f"Profit: {self.profit} | Max Theoretical: {self.max_theoretical_profit}")
+                print(f"Price: {self.price}, Rival Price: {rival_price}, Demand: {self.demand}")
 
         if self.profit > self.max_profit:
             self.max_profit = self.profit

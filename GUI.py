@@ -6,6 +6,7 @@ def create_gui():
     def on_submit():
         para_cost = [int(cost1_entry.get()), int(cost2_entry.get())]
         para_a = int(a_entry.get())
+        para_b = float(b_entry.get())
         para_d = float(d_entry.get())
         para_beta = float(beta_entry.get())
         initial_price = [int(p1_entry.get()), int(p2_entry.get())]
@@ -36,6 +37,9 @@ def create_gui():
     a_label = ttk.Label(root, text="Parameter 'a':")
     a_entry = tk.Entry(root, bg='gray')
 
+    b_label = ttk.Label(root, text="Parameter 'b':")
+    b_entry = ttk.Entry(root)
+
     d_label = ttk.Label(root, text="Parameter 'd':")
     d_entry = ttk.Entry(root)
 
@@ -62,6 +66,7 @@ def create_gui():
     cost1_entry.insert(0, '2')
     cost2_entry.insert(0, '2')
     a_entry.insert(0, '14')
+    b_entry.insert(0, '0.00003333333333')   # default = 1/30000
     d_entry.insert(0, '0.00333333333333')
     p1_entry.insert(0, '2')
     p2_entry.insert(0, '2')
@@ -78,27 +83,30 @@ def create_gui():
     a_label.grid(row=1, column=0, sticky='w')
     a_entry.grid(row=1, column=1)
 
-    d_label.grid(row=2, column=0, sticky='w')
-    d_entry.grid(row=2, column=1)
+    b_label.grid(row=2, column=0, sticky='w')
+    b_entry.grid(row=2, column=1)
 
-    beta_label.grid(row=3, column=0, sticky='w')
-    beta_entry.grid(row=3, column=1)
+    d_label.grid(row=3, column=0, sticky='w')
+    d_entry.grid(row=3, column=1)
 
-    p_label.grid(row=4, column=0, sticky='w')
-    p1_entry.grid(row=4, column=1)
-    p2_entry.grid(row=4, column=2)
+    beta_label.grid(row=4, column=0, sticky='w')
+    beta_entry.grid(row=4, column=1)
 
-    load_data_label.grid(row=5, column=0, sticky='w')
-    load_data_entry.grid(row=5, column=1)
+    p_label.grid(row=5, column=0, sticky='w')
+    p1_entry.grid(row=5, column=1)
+    p2_entry.grid(row=5, column=2)
 
-    load_strategy_label.grid(row=6, column=0, sticky='w')
-    load_strategy_entry.grid(row=6, column=1)
+    load_data_label.grid(row=6, column=0, sticky='w')
+    load_data_entry.grid(row=6, column=1)
 
-    has_conversation_label.grid(row=7, column=0, sticky='w')
-    has_conversation_entry.grid(row=7, column=1)
+    load_strategy_label.grid(row=7, column=0, sticky='w')
+    load_strategy_entry.grid(row=7, column=1)
+
+    has_conversation_label.grid(row=8, column=0, sticky='w')
+    has_conversation_entry.grid(row=8, column=1)
 
     a_entry.config(state='readonly')
 
-    submit_button.grid(row=8, column=0, columnspan=3, pady=10)
+    submit_button.grid(row=9, column=0, columnspan=3, pady=10)
 
     root.mainloop()

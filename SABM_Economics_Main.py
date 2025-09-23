@@ -28,15 +28,15 @@ program_run_dict = {
     "Conversation": False,
 }
 ## Round Setup
-rounds = 100000
+rounds = 900
 n_communications_noconversation = 1
 n_communications_conversation = 3
 output_max_tokens = 100
-breakpoint_rounds = 200
+breakpoint_rounds = 100
 prev_n_rounds = 20
 ## Agent Persona
-firm_persona_1 = '1' # Firm 1 persona (0: None, 1: Active, 2: Aggressive)
-firm_persona_2 = '1' # Firm 2 persona (0: None, 1: Active, 2: Aggressive)
+firm_persona_1 = '6' # Firm 1 persona (0: None, 1: Active Rational, 2: Aggressive Rational, 3: Economist, 4: Confirmation Bias, 5: Base-rate neglect Bias, 6: Loss-averse, 7: Sunk-cost fallacy, 8: Dominance effect)
+firm_persona_2 = '2' # Firm 2 persona (0: None, 1: Active Rational, 2: Aggressive Rational, 3: Economist, 4: Confirmation Bias, 5: Base-rate neglect Bias, 6: Loss-averse, 7: Sunk-cost fallacy, 8: Dominance effect)
 
 # Prompt
 prompts = Data.prompts
@@ -171,8 +171,12 @@ class Market:
                     print(firm.strategy[-1])
                 
                 # Price instructions
-                context_price_instructions = prompts["Phase_2_Description_1"].format(firm_a = firm.a) 
-                
+                context_price_instructions = prompts["Phase_2_Description_1"].format(
+                    firm_a = firm.a,
+                    monopoly_price = firm.max_allowed_price,
+                    bertrand_price = firm.min_allowed_price
+                )
+   
                 # Agent make decisions
                 if program_run_dict.get("Conversation") == False:
                     if round < prev_n_rounds:
@@ -270,6 +274,14 @@ def run_simulation(para_cost, para_a, para_d, para_beta, initial_price, load_dat
     firm1 = GPT.Firm(id=1, cost=para_cost[0], a=para_a, d=para_d, beta = para_beta, temperature=0.7, api_key=my_apikey1, model=model_ver, max_tokens = output_max_tokens)
     firm2 = GPT.Firm(id=2, cost=para_cost[1], a=para_a, d=para_d, beta = para_beta, temperature=0.7, api_key=my_apikey2, model=model_ver, max_tokens = output_max_tokens)
     firms = [firm1, firm2]
+    print("=== AGENT BIASES IN USE ===")
+    print(f"Firm 1 ('{firm1.firm_name}') uses persona {firm_persona_1}:")
+    print(persona_prompts[f"firm_persona_{firm_persona_1}"])
+    print()
+    print(f"Firm 2 ('{firm2.firm_name}') uses persona {firm_persona_2}:")
+    print(persona_prompts[f"firm_persona_{firm_persona_2}"])
+    print("===========================")
+
     
     # Environment Setup
     if initial_price[0] < para_cost[0]: initial_price[0] = para_cost[0]
@@ -292,7 +304,15 @@ def run_simulation(para_cost, para_a, para_d, para_beta, initial_price, load_dat
     ideal_profit_ub = [0, 0]
     ideal_solution = [ideal_price_lb, ideal_price_ub, ideal_profit_lb, ideal_profit_ub]
     ideal_solution = Function_Theoretical_Solution.theoretical_upperbound(para_cost, para_a, para_d, para_beta)
-    
+    firm1.max_theoretical_profit = ideal_solution[3][0]
+    firm2.max_theoretical_profit = ideal_solution[3][1]
+    monopoly_prices = ideal_solution[1]  # This is [monopoly_price_firm1, monopoly_price_firm2]
+    bertrand_prices = ideal_solution[0]  # This is [bertrand_firm1, bertrand_firm2]
+    firm1.max_allowed_price = monopoly_prices[0]
+    firm2.max_allowed_price = monopoly_prices[1]
+    firm1.min_allowed_price = bertrand_prices[0]
+    firm2.min_allowed_price = bertrand_prices[1]
+
     # Simluation
     if load_data == '':
         market = Market(firms, rounds, n_communications)
