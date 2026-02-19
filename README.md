@@ -47,6 +47,5 @@ If you use the original SABM framework, please cite:
 ```
 If you use this modified version, please also acknowledge that it extends the original SABM implementation.
 
-## Disclarimer
+## Disclaimer
 This repository is an independent research extension and is not an official release by the original SABM authors.
-
