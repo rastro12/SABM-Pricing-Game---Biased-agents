@@ -20,4 +20,4 @@ id = "Output/Record-231001-1725-gpt-4" # The location of csv file here
 csv_file = f"{id}/logs_decision_plot.csv"
 df_decision = pd.DataFrame(pd.read_csv(csv_file))
 
-Function_Plot.data_visulization([], df_decision, ideal_solution, output_folder=f"{id}/")
+Function_Plot.data_visulization(df_decision, ideal_solution, output_folder=f"{id}/")

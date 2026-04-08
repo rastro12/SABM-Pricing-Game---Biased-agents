@@ -3,3 +3,18 @@ __pycache__
 *.pyc
 
 mio_ambiente
+
+# macOS
+.DS_Store
+
+# Local thesis & writing
+thesis/
+CLAUDE.md
+Literature Review/
+
+# Experiment outputs and runtime logs
+Output/Record-*
+experiment_log.txt
+s1_log.txt
+run_experiments.py
+run_s1.py

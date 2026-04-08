@@ -12,12 +12,12 @@ import SABM_Economics_Data as Data
 import Function_Theoretical_Solution
 import Function_Plot
 import Function_Output
-import GUI
+# GUI imported lazily in main() to avoid circular imports
 
 plt.ion()
 
 # Model Setup
-model_ver = "gpt-4-0314" # LLM here, e.g., "gpt-3.5-turbo"
+model_ver = "gpt-4o-mini" # LLM here
 my_apikey1 = "sk-" # GPT API key here for firm 1
 my_apikey2 = "sk-" # GPT API key here for firm 2
 
@@ -28,11 +28,11 @@ program_run_dict = {
     "Conversation": False,
 }
 ## Round Setup
-rounds = 900
+rounds = 500
 n_communications_noconversation = 1
 n_communications_conversation = 3
 output_max_tokens = 100
-breakpoint_rounds = 100
+breakpoint_rounds = 0
 prev_n_rounds = 20
 ## Agent Persona
 firm_persona_1 = '6' # Firm 1 persona (0: None, 1: Active Rational, 2: Aggressive Rational, 3: Economist, 4: Confirmation Bias, 5: Base-rate neglect Bias, 6: Loss-averse, 7: Sunk-cost fallacy, 8: Dominance effect)
@@ -163,7 +163,10 @@ class Market:
                     if program_run_dict.get("Conversation") == False:
                         context = firm.context["context_game_description"] + firm.context["context_prev_consideration"] + firm.context["context_phase_1"] + context_strategy + prompts["Reflection_on_Strategy"]
                     else:
-                        context_game_description = prompts["game_description"].format(firm_name = firm.firm_name, firm_name_2 = self.firm_name(firm.id % len(self.firms) + 1), firm_cost = firm.cost, v1 = (1 / (1 - firm.d * firm.d)), v2 = (firm.a - firm.a * firm.d), v3 = firm.d, persona = persona_prompts["firm_persona_{}".format(firm_persona_1)])
+                        if firm.id == 1:
+                            context_game_description = prompts["game_description"].format(firm_name = firm.firm_name, firm_name_2 = self.firm_name(firm.id % len(self.firms) + 1), firm_cost = firm.cost, v1 = (1 / (1 - firm.d * firm.d)), v2 = (firm.a - firm.a * firm.d), v3 = firm.d, persona = persona_prompts["firm_persona_{}".format(firm_persona_1)])
+                        elif firm.id == 2:
+                            context_game_description = prompts["game_description"].format(firm_name = firm.firm_name, firm_name_2 = self.firm_name(firm.id % len(self.firms) + 1), firm_cost = firm.cost, v1 = (1 / (1 - firm.d * firm.d)), v2 = (firm.a - firm.a * firm.d), v3 = firm.d, persona = persona_prompts["firm_persona_{}".format(firm_persona_2)])
                         context = context_game_description + firm.context["context_prev_consideration"] + firm.context["context_phase_1"] + context_strategy + prompts["Reflection_on_Strategy"]
                     print(context)
                     response = firm.communicate(context)
@@ -264,7 +267,7 @@ class Market:
             df_strategy = pd.DataFrame(log_strategy, columns = ['Data'])
             Function_Output.data_output(df_conversation, df_decision, df_decision_plot, df_strategy, log_settings, output_path)
             if (round + 1) % (prev_n_rounds * 2) == 0:
-                Function_Plot.data_visulization(df_conversation, df_decision_plot, ideal_solution, output_path)
+                Function_Plot.data_visulization(df_decision_plot, ideal_solution, output_path)
         
         plt.close()
         return logs_conversation, log_price_data, log_price_data_plot, log_strategy, log_settings
@@ -370,9 +373,10 @@ def run_simulation(para_cost, para_a, para_d, para_beta, initial_price, load_dat
     if program_run_dict.get("DA"):
 
         # Visualization
-        Function_Plot.data_visulization(df_conversation, df_decision_plot, ideal_solution, output_path)
+        Function_Plot.data_visulization(df_decision_plot, ideal_solution, output_path)
 
 def main():
+    import GUI
     GUI.create_gui()
 
 if __name__ == "__main__":

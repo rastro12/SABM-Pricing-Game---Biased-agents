@@ -1,23 +1,16 @@
 import time
 import os
 import openai
-from openai import AzureOpenAI
+from openai import OpenAI
 from openai import RateLimitError, APIError
 from dotenv import load_dotenv
 
-openai.api_key = ""
-
 load_dotenv()
 
-CHAT_KEY = os.getenv("AZURE_CHAT_API_KEY")
-CHAT_ENDPOINT = os.getenv("AZURE_CHAT_ENDPOINT")
-CHAT_DEPLOYMENT = os.getenv("AZURE_CHAT_DEPLOYMENT")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-
-chat_client = AzureOpenAI(
-    api_key=CHAT_KEY,
-    azure_endpoint=CHAT_ENDPOINT,
-    api_version="2025-01-01-preview"
+chat_client = OpenAI(
+    api_key=OPENAI_API_KEY,
 )
 
 class Agent:
@@ -39,7 +32,7 @@ class Agent:
             try:
                 print(f"\n=== SYSTEM PROMPT DEBUG ===\n{context}\n============================\n")
                 response = chat_client.chat.completions.create(
-                    model=CHAT_DEPLOYMENT,
+                    model=self.model,
                     messages=[
                         {"role": "system", "content": context},
                         {"role": "user", "content": ""}
@@ -76,13 +69,4 @@ class Agent:
                     time.sleep(wait_time)
                     current_retry += 1
                 else:
-                    raise e
-            except APIError as e:
-                if current_retry < retries - 1:
-                    wait_time = backoff_factor ** current_retry
-                    print(f"RateLimitError: Retrying in {wait_time} seconds...")
-                    time.sleep(wait_time)
-                    current_retry += 1
-                else:
-                    print(f"Error {e}")
                     raise e

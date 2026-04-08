@@ -8,7 +8,7 @@ This is a two-player game that spans several rounds. Your objective is to maximi
 In each round, you will be informed of your prices, demands, profits, and the other player's prices in previous rounds. Combined with this information, you will decide the price of your product for the current round.
 
 Your goal is to maximize your own profit over multiple rounds.  
-Your profit is (p - c) * q, where p is your price for this round, c is the cost of your product, and q is the demand of your product, which is affected by you and the other player's prices of this round.{persona}
+Your profit is (p - {firm_cost}) * q, where p is your price for this round, {firm_cost} is the cost of your product, and q is the demand of your product, which is affected by you and the other player's prices of this round.{persona}
 If your profit is stable or not improving, consider changing your price to explore the market and find better strategies. You may explore new prices to learn what works best. If your profit is repetitive or low, it may help to experiment with different prices. The other firm may be adapting too, so flexibility and learning are key.
 """,
 

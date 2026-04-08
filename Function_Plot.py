@@ -10,7 +10,7 @@ plt.rcParams['font.family'] = 'Georgia'
 plt.rcParams.update({'font.size': 12})
 
 # Visualization
-def data_visulization(df_conversation, df_decision, ideal_solution, output_folder="Output"):
+def data_visulization(df_decision, ideal_solution, output_folder="Output"):
     # Plot prices, quantity, and profit for each firm
     
     # Create the output folder if it doesn't exist
